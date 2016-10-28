@@ -1,2 +1,2 @@
 # ToDos
-ToDos built in React
+ToDos built in React with es6.
